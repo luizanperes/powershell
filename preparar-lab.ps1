@@ -1,0 +1,1 @@
+#Script para preparar ambiente de laboratório
