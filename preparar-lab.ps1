@@ -1,1 +1,2 @@
-#Script para preparar ambiente de laboratório
+#Script para preparar ambiente de laboratório´
+echo "teste"
